@@ -1,0 +1,240 @@
+{
+  "name": "Ravix Studios",
+  "branding": {
+    "product": "Ravix Launcher",
+    "website": "https://ravixstudios.xyz"
+  },
+  "discord": {
+    "clientId": "1459246407536869491"
+  },
+  "versions": [
+    {
+      "id": "mc-1.21.11",
+      "name": "Minecraft 1.21.11",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.11",
+      "packVersion": "1.21.11",
+      "recommended": true,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.10",
+      "name": "Minecraft 1.21.10",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.10",
+      "packVersion": "1.21.10",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.9",
+      "name": "Minecraft 1.21.9",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.9",
+      "packVersion": "1.21.9",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.8",
+      "name": "Minecraft 1.21.8",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.8",
+      "packVersion": "1.21.8",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.7",
+      "name": "Minecraft 1.21.7",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.7",
+      "packVersion": "1.21.7",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.6",
+      "name": "Minecraft 1.21.6",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.6",
+      "packVersion": "1.21.6",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.5",
+      "name": "Minecraft 1.21.5",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.5",
+      "packVersion": "1.21.5",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.4",
+      "name": "Minecraft 1.21.4",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.4",
+      "packVersion": "1.21.4",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.3",
+      "name": "Minecraft 1.21.3",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.3",
+      "packVersion": "1.21.3",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.2",
+      "name": "Minecraft 1.21.2",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.2",
+      "packVersion": "1.21.2",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.1",
+      "name": "Minecraft 1.21.1",
+      "description": "Versión estable.",
+      "mcVersion": "1.21.1",
+      "packVersion": "1.21.1",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.21.0",
+      "name": "Minecraft 1.21",
+      "description": "Versión estable.",
+      "mcVersion": "1.21",
+      "packVersion": "1.21.0",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.20.6",
+      "name": "Minecraft 1.20.6",
+      "description": "Versión estable.",
+      "mcVersion": "1.20.6",
+      "packVersion": "1.20.6",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.20.5",
+      "name": "Minecraft 1.20.5",
+      "description": "Versión estable.",
+      "mcVersion": "1.20.5",
+      "packVersion": "1.20.5",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.20.4",
+      "name": "Minecraft 1.20.4",
+      "description": "Versión estable.",
+      "mcVersion": "1.20.4",
+      "packVersion": "1.20.4",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.20.3",
+      "name": "Minecraft 1.20.3",
+      "description": "Versión estable.",
+      "mcVersion": "1.20.3",
+      "packVersion": "1.20.3",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.20.2",
+      "name": "Minecraft 1.20.2",
+      "description": "Versión estable.",
+      "mcVersion": "1.20.2",
+      "packVersion": "1.20.2",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.20.1",
+      "name": "Minecraft 1.20.1",
+      "description": "Versión estable.",
+      "mcVersion": "1.20.1",
+      "packVersion": "1.20.1",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    },
+    {
+      "id": "mc-1.20.0",
+      "name": "Minecraft 1.20",
+      "description": "Versión estable.",
+      "mcVersion": "1.20",
+      "packVersion": "1.20.0",
+      "recommended": false,
+      "variants": [
+        { "id": "fabric", "type": "fabric", "name": "Fabric", "fabric": { "loader": "latest" }, "files": [] },
+        { "id": "forge", "type": "forge", "name": "Forge", "forge": { "version": "recommended" }, "files": [] }
+      ]
+    }
+  ]
+}
